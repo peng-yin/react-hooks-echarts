@@ -1,5 +1,5 @@
 {
-  "name": "useEcharts",
+  "name": "usecharts",
   "version": "1.0.0",
   "description": "React hooks for ECharts.",
   "keywords": [
@@ -8,12 +8,12 @@
     "echarts"
   ],
   "license": "MIT",
-  "author": "peng-yin <peng-yin@gmail.com> (https://github.com/peng-yin)",
+  "author": "peng-yin <674891229@qq.com> (https://github.com/peng-yin)",
   "homepage": "https://github.com/peng-yin/useEcharts",
   "repository": "github:peng-yin/useEcharts",
   "bugs": "https://github.com/peng-yin/useEcharts/issues",
-  "main": "dist/useEcharts.cjs.js",
-  "module": "dist/useEcharts.esm.js",
+  "main": "dist/usecharts.cjs.js",
+  "module": "dist/usecharts.esm.js",
   "types": "dist/types.d.ts",
   "files": [
     "dist",

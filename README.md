@@ -33,7 +33,7 @@ const H = () => {
 
 ## Demo
 
-[![Edit flooks](https://codesandbox.io/static/img/play-codesandbox.svg)]()
+[![Edit flooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/quiet-tdd-ff8ge?fontsize=14&hidenavigation=1&theme=dark)
 
 ## License
 
